@@ -1,7 +1,5 @@
 # Presentación
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
 - Suban una foto.
 - Suban los nuevos cambios.
 - Compartan el link por discord
@@ -10,15 +8,16 @@
 Ya saben usar git!
 
 
-## Estudiante: Nombre estudiante
+## Estudiante: Melody
 
-Descripción
+Hola soy Mel, soy estudiante de la tecnicatura de Prgramación informática en la UNSAM .
+Que tengan un buen Cuatri ✌🏻
 
 Foto de mi persona:
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
+![d](blob:https://web.whatsapp.com/ccbe82c3-45eb-48a5-9964-89905ffd88e1)
 
-Diente de Leon
+
 
 ------
 
